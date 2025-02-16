@@ -18,4 +18,4 @@ Using tools like **Python**, **SQL**, **Excel**, **Power BI**, and **Tableau**, 
 
 - **AI Solutions:** More details coming soon. Stay tuned!
 
-If you’re looking to collaborate or have any questions, feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/medelhamly/) or email us at contact@aicorsair.com!
+If you’re looking to collaborate or have any questions, feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/medelhamly/) or email us at contact@aicorsair.com.
