@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello there! 👋
 
-<!--
-**AiCorsair/AiCorsair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Mohamed, a **Freelance Data Scientist & Analyst** who turns raw data into actionable insights. In my first two years of self-education, I completed over `40` data projects. I then tackled several case studies solving real-world business problems, including **A/B testing**, **customer segmentation**, and **sentiment analysis**.
 
-Here are some ideas to get you started:
+As the founder of [Ai Corsair](https://aicorsair.com/), my mission is to provide data-driven solutions for businesses, help fresh learners improve data literacy by sharing high-quality content, and write insightful articles for [Ai Corsair blogs](https://aicorsair.com/blog).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Using tools like **Python**, **SQL**, **Excel**, **Power BI**, and **Tableau**, tailored to business needs, my team and I specialize in:
+
+- **Data Collection:** Extracting data from databases, APIs, web pages, and third-party sources, ensuring completeness, relevancy, and usability.
+
+- **Data Cleaning & Preprocessing:** Fixing errors, handling outliers, removing duplicates, filling missing values, and standardizing formats for accurate analysis.
+
+- **Data Visualization & Reporting:** Building interactive dashboards and reports to show trends, track key metrics, and uncover insights.
+
+- **A/B Testing & Experimentation:** Running controlled tests to optimize campaigns, features, and user experiences.
+
+- **Predictive Modeling:** Using ML & DL to forecast trends, behaviors, and outcomes with a balance of accuracy and explainability.
+
+- **AI Solutions:** More details coming soon. Stay tuned!
