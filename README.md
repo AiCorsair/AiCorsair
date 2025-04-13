@@ -2,8 +2,6 @@
 
 I’m Mohamed, a **Freelance Data Scientist & Analyst** who turns raw data into actionable insights. In my first two years of self-education, I completed over `40` data projects. I then tackled several case studies solving real-world business problems, including **A/B testing**, **customer segmentation**, and **sentiment analysis**.
 
-As the founder of [Ai Corsair](https://aicorsair.com/), my mission is to provide data-driven solutions for businesses, help fresh learners improve data literacy by sharing high-quality content, and write insightful articles for [Ai Corsair blogs](https://aicorsair.com/blog).
-
 Using tools like **Python**, **SQL**, **Excel**, **Power BI**, and **Tableau**, tailored to business needs, my team and I specialize in:
 
 - **Data Collection:** Extracting data from databases, APIs, web pages, and third-party sources, ensuring completeness, relevancy, and usability.
