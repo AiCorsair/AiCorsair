@@ -13,7 +13,3 @@ Using tools like **Python**, **SQL**, **Excel**, **Power BI**, and **Tableau**, 
 - **A/B Testing & Experimentation:** Running controlled tests to optimize campaigns, features, and user experiences.
 
 - **Predictive Modeling:** Using ML & DL to forecast trends, behaviors, and outcomes with a balance of accuracy and explainability.
-
-- **AI Solutions:** More details coming soon. Stay tuned!
-
-If you’re looking to collaborate or have any questions, feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/medelhamly/) or email us at contact@aicorsair.com.
