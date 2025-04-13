@@ -2,7 +2,7 @@
 
 I’m Mohamed, a **Data Scientist & Analyst** who turns raw data into actionable insights. In my first two years of self-education, I completed over `40` data projects. I then tackled several case studies solving real-world business problems, including **A/B testing**, **customer segmentation**, and **sentiment analysis**.
 
-Using tools like **Python**, **SQL**, **Excel**, **Power BI**, and **Tableau**, tailored to business needs, my team and I specialize in:
+Using tools like **Python**, **SQL**, **Excel**, **Power BI**, and **Tableau**, tailored to business needs, I specialize in:
 
 - **Data Collection:** Extracting data from databases, APIs, web pages, and third-party sources, ensuring completeness, relevancy, and usability.
 
